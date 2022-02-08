@@ -1,5 +1,7 @@
 # person_expenses
 ![image](https://user-images.githubusercontent.com/53690049/152964661-647b2abd-a13f-430a-9921-51888f8890d1.png)
+![image](https://user-images.githubusercontent.com/53690049/152964765-f07bdb7b-0a88-4c6c-b352-bad8025dd33c.png)
+
 
 
 A new Flutter project.
